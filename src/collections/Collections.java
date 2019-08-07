@@ -27,6 +27,7 @@ public class Collections {
        numbers.add(300);
        numbers.add(400);
        numbers.add(500);
+       numbers.removeFirst();
 //       System.out.println(numbers);
        
        for(int number: numbers){
